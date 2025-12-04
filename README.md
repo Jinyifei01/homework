@@ -358,9 +358,9 @@ const val MSG_TYPE_SYSTEM = 5    // 系统消息
 
 ## 📞 联系方式
 
-- 📧 Email: [your-email@example.com]
-- 💬 Issues: [GitHub Issues]
-- 📱 WeChat: [your-wechat]
+- 📧 Email: [yifei_jin001@163.com]
+- 💬 Issues: [[GitHub Issues](https://github.com/Jinyifei01/homework)]
+
 
 ## 📄 许可证
 
