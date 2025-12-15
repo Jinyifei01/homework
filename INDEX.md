@@ -38,6 +38,7 @@
 | **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** | ~8KB | 项目最终总结报告 | 项目经理、所有人 |
 | **[DESIGN_DOC.md](DESIGN_DOC.md)** | ~200KB | 完整设计思路 | 架构师、高级开发 |
 | **[CODE_STRUCTURE.md](CODE_STRUCTURE.md)** | ~150KB | 代码结构详解 | 开发人员、代码审查 |
+| **[FILE_CODE_EXPLANATION.md](FILE_CODE_EXPLANATION.md)** | ~180KB | 逐文件代码详细解释 | 开发人员、学习者 |
 | **[README.md](README.md)** | ~120KB | 使用指南和快速开始 | 所有用户 |
 | **[DELIVERY_CHECKLIST.md](DELIVERY_CHECKLIST.md)** | ~50KB | 交付清单和验收标准 | 项目经理、QA |
 
@@ -135,6 +136,9 @@
 → [DESIGN_DOC.md - 通信协议设计](DESIGN_DOC.md#协议版本控制与扩展)
 
 ### 我想理解某个关键概念
+
+#### 具体文件的代码实现
+→ [FILE_CODE_EXPLANATION.md](FILE_CODE_EXPLANATION.md) - 逐文件代码详解
 
 #### MVVM架构
 → [CODE_STRUCTURE.md - MVVM架构](CODE_STRUCTURE.md#mvvm架构)
@@ -256,7 +260,7 @@ deploy.sh (自动化脚本)
     ↓
 2. PROJECT_SUMMARY.md           (快速概览)
     ↓
-3. CODE_STRUCTURE.md (基础部分) (理解代码)
+3. FILE_CODE_EXPLANATION.md     (逐文件理解代码)
     ↓
 4. 源代码文件                    (阅读代码)
 ```
@@ -265,11 +269,13 @@ deploy.sh (自动化脚本)
 ```
 1. CODE_STRUCTURE.md            (代码结构)
     ↓
-2. DESIGN_DOC.md (架构部分)     (理解设计)
+2. FILE_CODE_EXPLANATION.md     (详细代码解释)
     ↓
-3. 源代码文件                    (深入代码)
+3. DESIGN_DOC.md (架构部分)     (理解设计)
     ↓
-4. 扩展功能                      (动手实践)
+4. 源代码文件                    (深入代码)
+    ↓
+5. 扩展功能                      (动手实践)
 ```
 
 ### 架构师路径
