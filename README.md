@@ -353,8 +353,9 @@ const val MSG_TYPE_SYSTEM = 5    // 系统消息
 
 - [设计思路文档](DESIGN_DOC.md) - 完整的架构和设计说明
 - [代码结构说明](CODE_STRUCTURE.md) - 详细的模块和代码解释
+- [文件代码详解](FILE_CODE_EXPLANATION.md) - 逐个文件的代码详细解释
+- [文档导航](INDEX.md) - 所有文档的导航和索引
 - [快速开始](#快速开始) - 本README中的快速开始部分
-- [API文档](#) - （待完善）
 
 ## 📞 联系方式
 
